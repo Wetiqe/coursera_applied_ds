@@ -19,7 +19,6 @@ I hope to answer following questions in my notebook:
 * How Starbucks expands in Shanghai
 
 # Methodology
-In first step we have collected the required **Starbucks data: coordination, location and other information we need from Internet** . Most of the information is already filled. For those are missing, we use Foursquare to get the information we need.
-Second step in our analysis will be **descriptive statistical analysis**. We will 
-count the countries with the most starbucks and the cities with the most starbucks.
+In first step we have collected the required **Starbucks data: coordination, location and other information we need from Internet** . Most of the information is already filled. For those are missing, we use Foursquare to get the information we need.    
+Second step in our analysis will be **descriptive statistical analysis**. We will count the countries with the most starbucks and the cities with the most starbucks.    
 In third and final step we will **display the starbuck stores using folium**. To see how starbucks distributed worldwide and in China. We also tried to visualize starbuck stores according to their set up time.
